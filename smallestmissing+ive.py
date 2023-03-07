@@ -19,6 +19,7 @@ class Solution(object):
                 return nums[i-1] + 1
         return nums[-1] + 1
     
+    
 
               
 
